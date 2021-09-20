@@ -1,6 +1,6 @@
 ### TADAdesktopApplication
 
-In this project Have two Pages. One is TADA Insert Page Another is TADA History Page. Accounttant insert employee TADA BILL From insert Page and And It's will be shown in History Pages within Table. History table Column Paid Always Show UnPaid First And Sorted Using Date That's mean Recent date will be set at first.
+In this project Have two Pages. One is TADA Insert Page Another is TADA History Page. Accounttant insert employee TADA BILL From insert Page and And It's will be shown in History Pages within Table.Accounttant able to generate PDF File if needed. History table Column Paid Always Show UnPaid First And Sorted Using Date That's mean Recent date will be set at first.
 #
 
 ### Download Essential file With EXE file 
