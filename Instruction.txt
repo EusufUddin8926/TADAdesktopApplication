@@ -1,0 +1,8 @@
+Instruction For Opening this project in Netbeans
+
+1. Download Or Clode this Project
+2. Then Open Netbeans and click Open Project, then Select Project
+3. After Opening Project then Connect With Mysql Database 
+4. Then Run This Application from TADAInsertFrom.java
+
+Then Test this Application
